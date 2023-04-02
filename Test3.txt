@@ -6,3 +6,4 @@ First line in file added in local repository. Update
 Line added in remote repo
 >>>>>>> 8537704176f46b15ac47276f3762b213573ceba4
 Checked in local repo
+Hello

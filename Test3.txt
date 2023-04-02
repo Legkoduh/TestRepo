@@ -1,2 +1,2 @@
-First line in file added in local repository
+First line in file added in local repository. Update
 Line added in remote repo

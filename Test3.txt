@@ -8,5 +8,9 @@ Line added in remote repo
 Checked in local repo
 Hello
 <<<<<<< HEAD
+<<<<<<< HEAD
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!ChangeLocal2
+=======
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!ChangeRemote2
+>>>>>>> 3affa450898b00dfcf102b9c46b64f0223fbebed
 >>>>>>> 1795fb6ece1b7d593c369478edb18242871dc027

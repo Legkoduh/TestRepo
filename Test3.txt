@@ -7,4 +7,6 @@ Line added in remote repo
 >>>>>>> 8537704176f46b15ac47276f3762b213573ceba4
 Checked in local repo
 Hello
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Changelocal
+<<<<<<< HEAD
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!ChangeRemote!
+>>>>>>> 1795fb6ece1b7d593c369478edb18242871dc027
